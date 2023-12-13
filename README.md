@@ -14,5 +14,8 @@ It appears designed for collaborative use, as there is a prompt suggesting to jo
 There's a running status indicator, suggesting that the application might process files in real-time or that it operates on a server.
 This chatbot interface seems to be hosted on Hugging Face Spaces, which is a platform for deploying and sharing machine learning models. The use of Hugging Face implies that the chatbot may use advanced natural language processing models to interact with users and understand the contents of PDF files.
 
+# Link
+https://huggingface.co/spaces/ZaryabKhan14/Assistant_Api_Chatbot
+
 
 ![Capture](https://github.com/ZaryabKhan14/Assistant_Api_Chatbot/assets/93312774/7cc03e3d-a06a-4707-90b4-26ac442edd41)
